@@ -27,3 +27,10 @@ Desenvolvido usando:
 ```bash
 npm install
 ``` 
+## Executando Testes
+
+* Para rodar todos os testes:
+
+  ```
+    npm test
+  ```
