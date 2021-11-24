@@ -7,7 +7,7 @@ Este projeto consiste na contrução de várias funções para atender aos requi
 ## Tecnologias usadas
 
 Desenvolvido usando:
-> JavaScript ES6
+> JavaScript, Jest
 
 ## Habilidades treinadas
 
